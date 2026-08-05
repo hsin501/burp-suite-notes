@@ -82,11 +82,8 @@ Burp 會暫停 HTTP Request，等待使用者決定是否 Forward。
 
 ---
 
+![Burp Proxy Settings](../assets/01-getting-started/01-intercept-http-traffic/burp-interface.png)
 
-
-
-![Burp Proxy Settings](../assets/01-Getting-Started/01-Intercept-HTTP-traffic/burpinterface.png)
----
 
 # Notes（筆記）
 
